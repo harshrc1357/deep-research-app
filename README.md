@@ -144,8 +144,6 @@ This app is deployed on **Streamlit Community Cloud** (free tier).
    SENDGRID_API_KEY = "SG.your-key"
    ```
 
-📖 **Detailed deployment guide**: See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)
-
 ## 📁 Project Structure
 
 ```
@@ -159,8 +157,7 @@ deep_research/
 ├── requirements.txt        # Python dependencies
 ├── .gitignore             # Git ignore rules
 ├── README.md              # This file
-├── DEPLOYMENT_GUIDE.md    # Detailed deployment instructions
-└── QUICK_START.md         # Quick reference guide
+
 ```
 
 ## 🔑 API Keys Required
