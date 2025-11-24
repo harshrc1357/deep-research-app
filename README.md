@@ -2,7 +2,7 @@
 
 An intelligent, autonomous research system that leverages multiple AI agents to conduct comprehensive web research, synthesize findings, and generate detailed reports. Built with OpenAI's Agents SDK and deployed on Streamlit.
 
-**Live Demo**: [Your Streamlit App URL](https://deep-research-app.streamlit.app/)
+**Live Demo**: [Deep-Research-App](https://deep-research-app.streamlit.app/)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
