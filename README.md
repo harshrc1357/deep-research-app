@@ -228,16 +228,6 @@ All steps are traceable via OpenAI's trace system for debugging and monitoring.
 - Never commit secrets to version control
 - `.gitignore` excludes sensitive files
 
-## 🤝 Contributing
-
-This is a learning project. Feel free to fork and experiment!
-
-## 🙏 Acknowledgments
-
-- Built using OpenAI's Agents SDK
-- Deployed on Streamlit Community Cloud
-- Inspired by multi-agent research patterns
-
 
 ---
 
